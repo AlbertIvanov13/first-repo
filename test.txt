@@ -1,5 +1,8 @@
+Proba
+Промяна с Bash...
 My name is Albert
 Промяна с Tortoise.....
+<<<<<<< HEAD
 1. Нова промяна с Tortoise
 2. Нова промяна с Tortoise
 3. Нова промяна с Tortoise
@@ -7,3 +10,5 @@ My name is Albert
 
 
 
+=======
+>>>>>>> 1538216d054d6a559742278e54d382bd3c6070a0
